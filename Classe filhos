@@ -1,0 +1,16 @@
+package classes;
+
+
+public class Filhos {
+    private int qntfilhos;
+    
+    
+    public Filhos(){
+        
+    }
+    
+    public int getFilhos(){
+        return qntfilhos;
+    }
+    
+}
