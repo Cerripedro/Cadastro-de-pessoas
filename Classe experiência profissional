@@ -1,0 +1,20 @@
+package classes;
+
+
+public class expe_profissional extends Pessoa{
+    private String empresa;
+    private String motivo;
+    
+    public expe_profissional(){
+        
+    }
+    
+    public String getEmpresa(){
+        return empresa;
+    }
+    
+    public String getMotivo(){
+        return motivo;
+    }
+    
+}
